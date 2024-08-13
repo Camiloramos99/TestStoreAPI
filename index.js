@@ -9,3 +9,4 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port)
+console.log('Iniciando el servidor JSON...');
