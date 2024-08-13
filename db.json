@@ -1,0 +1,144 @@
+{
+    "productos": [
+      { 
+        "id": 1, 
+        "title": "Camiseta Básica", 
+        "price": 100,
+        "category": "Clothes",
+        "image": "https://images.pexels.com/photos/25823337/pexels-photo-25823337/free-photo-of-ciudad-gafas-de-sol-mujer-edificios.jpeg"
+      },
+      { 
+        "id": 2, 
+        "title": "Pantalones Jeans", 
+        "price": 200,
+        "category": "Clothes",
+        "image": "https://images.pexels.com/photos/1957154/pexels-photo-1957154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 3, 
+        "title": "Smartphone", 
+        "price": 300,
+        "category": "Electronics",
+        "image": "https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 4, 
+        "title": "Laptop", 
+        "price": 400,
+        "category": "Electronics",
+        "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      { 
+        "id": 5, 
+        "title": "Sofá", 
+        "price": 500,
+        "category": "Furnitures",
+        "image": "https://images.pexels.com/photos/6480707/pexels-photo-6480707.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 6, 
+        "title": "Mesa de Centro", 
+        "price": 600,
+        "category": "Furnitures",
+        "image": "https://images.pexels.com/photos/7404941/pexels-photo-7404941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 7, 
+        "title": "Muñeca", 
+        "price": 700,
+        "category": "Toys",
+        "image": "https://images.pexels.com/photos/3274626/pexels-photo-3274626.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 8, 
+        "title": "Auto de Juguete", 
+        "price": 800,
+        "category": "Toys",
+        "image": "https://images.pexels.com/photos/772393/pexels-photo-772393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 9, 
+        "title": "Reloj Inteligente", 
+        "price": 900,
+        "category": "Electronics",
+        "image": "https://images.pexels.com/photos/1334602/pexels-photo-1334602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 10, 
+        "title": "Auriculares", 
+        "price": 1000,
+        "category": "Electronics",
+        "image": "https://images.pexels.com/photos/8000624/pexels-photo-8000624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 11, 
+        "title": "Camiseta Deportiva", 
+        "price": 1100,
+        "category": "Clothes",
+        "image": "https://images.pexels.com/photos/9325231/pexels-photo-9325231.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 12, 
+        "title": "Zapatos Deportivos", 
+        "price": 1200,
+        "category": "Clothes",
+        "image": "https://images.pexels.com/photos/25492111/pexels-photo-25492111/free-photo-of-zapatos-de-color-negro-para-mujer.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 13, 
+        "title": "Televisor", 
+        "price": 1300,
+        "category": "Electronics",
+        "image": "https://images.pexels.com/photos/20035980/pexels-photo-20035980/free-photo-of-lujo-lampara-mueble-mobiliario.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 14, 
+        "title": "Cámara Fotográfica", 
+        "price": 1400,
+        "category": "Electronics",
+        "image": "https://images.pexels.com/photos/5808388/pexels-photo-5808388.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 15, 
+        "title": "Silla de Oficina", 
+        "price": 1500,
+        "category": "Furnitures",
+        "image": "https://images.pexels.com/photos/5483154/pexels-photo-5483154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 16, 
+        "title": "Escritorio", 
+        "price": 1600,
+        "category": "Furnitures",
+        "image": "https://images.pexels.com/photos/2528118/pexels-photo-2528118.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      { 
+        "id": 17, 
+        "title": "Pelota de Fútbol", 
+        "price": 1700,
+        "category": "Toys",
+        "image": "https://images.pexels.com/photos/47730/the-ball-stadion-football-the-pitch-47730.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      { 
+        "id": 18, 
+        "title": "Juego de Construcción", 
+        "price": 1800,
+        "category": "Toys",
+        "image": "https://images.pexels.com/photos/4473494/pexels-photo-4473494.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      },
+      { 
+        "id": 19, 
+        "title": "Bicicleta", 
+        "price": 1900,
+        "category": "Others",
+        "image": "https://images.pexels.com/photos/5914907/pexels-photo-5914907.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      { 
+        "id": 20, 
+        "title": "Patineta", 
+        "price": 2000,
+        "category": "Others",
+        "image": "https://images.pexels.com/photos/6827589/pexels-photo-6827589.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  }
