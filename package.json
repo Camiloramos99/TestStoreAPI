@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
     "json-server": "^0.16.3"
   },
   "description": ""
