@@ -1,0 +1,21 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Buenos Aires",
+			"country": {
+				"code": "AR",
+				"name": "Argentina"
+			},
+			"subdivision": {
+				"code": "B",
+				"name": "Buenos Aires"
+			},
+			"timezone": "America/Argentina/Buenos_Aires",
+			"latitude": -36,
+			"longitude": -59.9964,
+			"postalCode": "1772"
+		},
+		"timestamp": 1727629874678
+	},
+	"siteId": "6795f1da-eef9-415d-b517-d136ce1f1277"
+}
